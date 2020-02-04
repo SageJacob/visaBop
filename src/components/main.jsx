@@ -1,3 +1,5 @@
+// Jacob Sage
+// Swamphacks 2020
 import React, { Component } from 'react';
 import swamp from '../images/swamp.png';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -160,9 +162,4 @@ class Main extends Component {
     );
   }
 }
-
-/*
-Copyright Notice:
-  All rights reserved to Jacob Sage
-*/
 export default Main;
